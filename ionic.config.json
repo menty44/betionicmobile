@@ -1,0 +1,7 @@
+{
+  "name": "bestnowmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
